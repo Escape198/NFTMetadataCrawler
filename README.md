@@ -15,6 +15,12 @@ A parser and visualizer for NFT metadata by ERC-721 contract address.
 - ethers.js
 - axios
 
+```bash
+npx create-next-app@latest . --typescript --eslint
+npm install ethers axios
+
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
