@@ -44,7 +44,11 @@ npm run dev
 Visit: http://localhost:3000
 
 ### Example Usage
-1. Enter contract address (e.g., CryptoPunks, BoredApes)
+1. Enter contract address (e.g., CryptoPunks, BoredApes) 
 2. Enter token ID (e.g., 1)
 3. Click Fetch Metadata
-![img.png](img.png)
+
+for example: Contract Address - 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d; token ID - 1![image](https://github.com/user-attachments/assets/d1694fcb-eced-49a7-81e7-d74b2c5931fb)
+
+
+
